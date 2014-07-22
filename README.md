@@ -40,7 +40,7 @@ And we hope to develop together with contributors who will approve of this proje
       [Japanese](http://osc.matsukei.net/projects/thinreports/wiki/Examples)
   * [The API Documentation](http://rubydoc.info/gems/thinreports/0.7.7/frames)
 
-### Other
+### Examples with Rails
 
   * [Rails4 Example](https://github.com/thinreports/thinreports-rails4-example)
   * [Rails3 Example](https://github.com/thinreports/thinreports-rails3-example)
@@ -48,8 +48,11 @@ And we hope to develop together with contributors who will approve of this proje
 ## Community
 
   * [Discussion Group](https://groups.google.com/forum/#!forum/thinreports)
-  * Issue Tracker ( Now under preparation. The old is [here](http://osc.matsukei.net/projects/thinreports/boards) )
-  * Old [Discussion Forum](http://osc.matsukei.net/projects/thinreports/boards) ( Read-only )
+  * Issue Trackers
+    * [ThinReports Generator](https://github.com/thinreports/thinreports-generator/issues?state=open)
+    * [ThinReports Editor](https://github.com/thinreports/thinreports-editor/issues?state=open)
+  * [Old Issue Tracker](http://osc.matsukei.net/projects/thinreports/issues) (Read-only)
+  * [Old Discussion Forum](http://osc.matsukei.net/projects/thinreports/boards) ( Read-only )
 
 ### Social
 
