@@ -8,12 +8,16 @@ http://www.thinreports.org
 ### ThinReports Editor
 
 Report designer that worked on Mac/Win/Linux.  
-[GitHub](https://github.com/thinreports/thinreports-editor)
+[Source Code](https://github.com/thinreports/thinreports-editor) |
+[Issue Tracker](https://github.com/thinreports/thinreports-editor/issues?state=open) |
+[Report Issue](https://github.com/thinreports/thinreports-editor/issues/new)
 
 ### ThinReports Generator for Ruby
 
 Report generation library for Ruby.  
-[GitHub](https://github.com/thinreports/thinreports-generator)
+[Source Code](https://github.com/thinreports/thinreports-generator) |
+[Issue Tracker](https://github.com/thinreports/thinreports-generator/issues?state=open) |
+[Report Issue](https://github.com/thinreports/thinreports-generator/issues/new)
 
 ### ThinReports Generator for PHP (future plan)
 
