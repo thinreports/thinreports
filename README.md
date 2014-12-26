@@ -45,6 +45,20 @@ And we hope to develop together with contributors who will approve of this proje
   * [Rails4 Example](https://github.com/thinreports/thinreports-rails4-example)
   * [Rails3 Example](https://github.com/thinreports/thinreports-rails3-example)
 
+## Contributing to ThinReports
+
+### How to contribute
+
+Please see the README of each projects.
+
+### How to learn the ThinReports Basis Spec
+
+  * Layout File
+    * [Basis Structure](https://github.com/thinreports/thinreports/blob/spec/file_structure.md)
+    * [Object Structure](https://github.com/thinreports/thinreports/blob/spec/shape_structure.md)
+  * Layout Definition
+    * [Document Structure](https://github.com/thinreports/thinreports/blob/spec/document/document_structure.md)
+
 ## Community
 
   * [Discussion Group](https://groups.google.com/forum/#!forum/thinreports)
@@ -58,16 +72,6 @@ And we hope to develop together with contributors who will approve of this proje
 
   * Twitter [@thinreport_org](https://twitter.com/thinreports_org)
   * Facebook Page [ThinReports.org](https://www.facebook.com/ThinReports.org)
-
-## Contributing to ThinReports
-
-### How to contribute
-
-Please see the README of each projects.
-
-### How to learn the ThinReports Basis Spec
-
-Sorry, currently under preparation. **We have a plan to publish in 2014!**
 
 ## License
 

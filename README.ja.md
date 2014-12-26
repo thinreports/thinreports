@@ -44,6 +44,20 @@ PHP 向けの PDF 生成ライブラリ
   * [Rails4 Example](https://github.com/thinreports/thinreports-rails4-example)
   * [Rails3 Example](https://github.com/thinreports/thinreports-rails3-example)
 
+## ThinReports の開発に貢献する
+
+### 開発に貢献する方法
+
+各プロジェクト毎の README をご覧下さい
+
+### ThinReports の仕様を知る方法
+
+  * レイアウトファイル
+    * [基本構造](https://github.com/thinreports/thinreports/blob/spec/file_structure.md)
+    * [オブジェクト構造](https://github.com/thinreports/thinreports/blob/spec/shape_structure.md)
+  * レイアウト定義
+    * [仕様書の構造](https://github.com/thinreports/thinreports/blob/spec/document/document_structure.md)
+
 ## コミュニティ
 
   * [メーリングリスト](https://groups.google.com/forum/#!forum/thinreports)
@@ -57,16 +71,6 @@ PHP 向けの PDF 生成ライブラリ
 
   * Twitter [@thinreport_org](https://twitter.com/thinreports_org)
   * Facebook Page [ThinReports.org](https://www.facebook.com/ThinReports.org)
-
-## ThinReports の開発に貢献する
-
-### 開発に貢献する方法
-
-各プロジェクト毎の README をご覧下さい
-
-### ThinReports の仕様を知る方法
-
-現在準備中です。 **2014 年中に仕様を公開する予定です**。
 
 ## ライセンス
 
