@@ -53,10 +53,10 @@ PHP 向けの PDF 生成ライブラリ
 ### ThinReports の仕様を知る方法
 
   * レイアウトファイル
-    * [基本構造](https://github.com/thinreports/thinreports/blob/spec/file_structure.md)
-    * [オブジェクト構造](https://github.com/thinreports/thinreports/blob/spec/shape_structure.md)
+    * [基本構造](https://github.com/thinreports/thinreports/blob/master/spec/layout/file_structure.md)
+    * [オブジェクト構造](https://github.com/thinreports/thinreports/blob/master/spec/layout/shape_structure.md)
   * レイアウト定義
-    * [仕様書の構造](https://github.com/thinreports/thinreports/blob/spec/document/document_structure.md)
+    * [仕様書の構造](https://github.com/thinreports/thinreports/blob/master/spec/layout/document/document_structure.md)
 
 ## コミュニティ
 

@@ -54,10 +54,10 @@ Please see the README of each projects.
 ### How to learn the ThinReports Basis Spec
 
   * Layout File
-    * [Basis Structure](https://github.com/thinreports/thinreports/blob/spec/file_structure.md)
-    * [Object Structure](https://github.com/thinreports/thinreports/blob/spec/shape_structure.md)
+    * [Basis Structure](https://github.com/thinreports/thinreports/blob/master/spec/layout/file_structure.md)
+    * [Object Structure](https://github.com/thinreports/thinreports/blob/master/spec/layout/shape_structure.md)
   * Layout Definition
-    * [Document Structure](https://github.com/thinreports/thinreports/blob/spec/document/document_structure.md)
+    * [Document Structure](https://github.com/thinreports/thinreports/blob/master/spec/layout/document/document_structure.md)
 
 ## Community
 
