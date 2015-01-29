@@ -21,6 +21,7 @@ Report generation library for Ruby:
 
   * [**How to Contribute to Thinreports**](https://github.com/thinreports/thinreports/wiki/How-to:-Contributing-to-Thinreports)
   * [Discussion Group](https://groups.google.com/forum/#!forum/thinreports)
+  * [Development Notes](https://github.com/thinreports/thinreports/wiki#development-notes)
 
 ## Getting Started
 
