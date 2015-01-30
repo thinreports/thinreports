@@ -5,13 +5,13 @@ http://www.thinreports.org
 
 ## Projects
 
-### Thinreports Editor
+### Thinreports Editor [![Join the chat at https://gitter.im/thinreports/thinreports-editor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thinreports/thinreports-editor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Report designer that worked on Mac/Win/Linux:
 [Features](http://www.thinreports.org/features/edotor/) |
 [GitHub](https://github.com/thinreports/thinreports-editor)
 
-### Thinreports Generator for Ruby
+### Thinreports Generator for Ruby [![Join the chat at https://gitter.im/thinreports/thinreports-generator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thinreports/thinreports-generator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Report generation library for Ruby:
 [Features](http://www.thinreports.org/features/generator/) |
