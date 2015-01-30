@@ -1,5 +1,7 @@
 # Thinreports
 
+[![Join the chat at https://gitter.im/thinreports/thinreports](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thinreports/thinreports?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Thinreports is an open source report tool for Ruby:
 http://www.thinreports.org
 
