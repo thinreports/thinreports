@@ -1,4 +1,4 @@
-# ![Thinreports | Open Source Report Tool for Ruby](http://www.thinreports.org/assets/images/thinreports-logo.png)
+# ![Thinreports | Open Source Report Tool for Ruby](http://www.thinreports.org/assets/logos/thinreports-logo.svg)
 
 Thinreports is an open source report tool for Ruby:
 http://www.thinreports.org
