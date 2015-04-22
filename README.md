@@ -47,4 +47,4 @@ We would like to deveop by another community.
 
 ## Copyright
 
-&copy; 2010-2015 Matsukei Corp. See LICENSE of each product for further details.
+&copy; 2010-2015 [Matsukei Co.,Ltd](http://www.matsukei.co.jp).
