@@ -8,16 +8,29 @@ http://www.thinreports.org
 ### Thinreports Editor [![Join the chat at https://gitter.im/thinreports/thinreports-editor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thinreports/thinreports-editor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ChromeApp-based Report Designer for Thinreports:
-[Features](http://www.thinreports.org/features/editor/) |
-[Chrome Web Store](https://chrome.google.com/webstore/detail/thinreports-editor/cdlcnnandndjkbbdcbpnjoimphmifkfn) |
-[GitHub](https://github.com/thinreports/thinreports-editor)
+
+  * [Features](http://www.thinreports.org/features/editor/)
+  * [Chrome Web Store](https://chrome.google.com/webstore/detail/thinreports-editor/cdlcnnandndjkbbdcbpnjoimphmifkfn)
+  * [GitHub](https://github.com/thinreports/thinreports-editor)
 
 ### Thinreports Generator for Ruby [![Join the chat at https://gitter.im/thinreports/thinreports-generator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thinreports/thinreports-generator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Report generation library for Ruby:
-[Features](http://www.thinreports.org/features/generator/) |
-[RubyGems.org](https://rubygems.org/gems/thinreports) |
-[GitHub](https://github.com/thinreports/thinreports-generator)
+
+  * [Features](http://www.thinreports.org/features/generator/)
+  * [RubyGems.org](https://rubygems.org/gems/thinreports)
+  * [GitHub](https://github.com/thinreports/thinreports-generator)
+
+## Third-party
+
+### Thinreports Generator for PHP
+
+Report generation library for PHP:
+
+  * [Homepage](https://github.com/thinreports-php)
+  * [GitHub](https://github.com/thinreports-php/thinreports-php)
+  * [Packagist](https://packagist.org/packages/thinreports-php/thinreports-php)
+  * [Development Community](https://gitter.im/thinreports-php/thinreports-php/dev)
 
 ## Community
 
@@ -39,13 +52,6 @@ Report generation library for Ruby:
 
   * Twitter [@thinreport_org](https://twitter.com/thinreports_org)
   * Facebook Page [Thinreports.org](https://www.facebook.com/Thinreports.org)
-
-## Come in 2015?
-
-### Thinreports Generator for PHP
-
-Report generation library for PHP:
-We would like to deveop by another community.
 
 ## Copyright
 
