@@ -3,6 +3,13 @@
 Thinreports is an open source report tool for Ruby:
 http://www.thinreports.org
 
+---
+
+**We need your review and your advice for the concept of new features:**
+https://github.com/thinreports/thinreports/labels/CONCEPT
+
+---
+
 ## Projects
 
 ### Thinreports Editor [![Join the chat at https://gitter.im/thinreports/thinreports-editor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thinreports/thinreports-editor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
