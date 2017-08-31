@@ -17,7 +17,7 @@ https://github.com/thinreports/thinreports/labels/CONCEPT
 ChromeApp-based Report Designer for Thinreports:
 
   * [Features](http://www.thinreports.org/features/editor/)
-  * [Chrome Web Store](https://chrome.google.com/webstore/detail/thinreports-editor/cdlcnnandndjkbbdcbpnjoimphmifkfn)
+  * [Download](https://github.com/thinreports/thinreports-editor/releases)
   * [GitHub](https://github.com/thinreports/thinreports-editor)
 
 ### Thinreports Generator for Ruby [![Join the chat at https://gitter.im/thinreports/thinreports-generator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thinreports/thinreports-generator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
