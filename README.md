@@ -52,8 +52,8 @@ Report generation library for PHP:
 
   * [Documentation](http://www.thinreports.org/documentation/en/)
   * [Examples](https://github.com/thinreports/thinreports-examples)
+  * [Rails5 Example](https://github.com/thinreports/thinreports-rails5-example)
   * [Rails4 Example](https://github.com/thinreports/thinreports-rails4-example)
-  * [Rails3 Example](https://github.com/thinreports/thinreports-rails3-example)
 
 ## Social Accounts
 
