@@ -39,6 +39,12 @@ Report generation library for PHP:
   * [Packagist](https://packagist.org/packages/thinreports-php/thinreports-php)
   * [Development Community](https://gitter.im/thinreports-php/thinreports-php/dev)
 
+### thinreports-rails
+
+Rails Template handler for ThinReports DSL.
+
+  * [GitHub](https://github.com/takeshinoda/thinreports-rails)
+
 ## Community
 
   * [**How to Contribute to Thinreports**](https://github.com/thinreports/thinreports/wiki/How-to:-Contributing-to-Thinreports)
