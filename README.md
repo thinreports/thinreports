@@ -45,6 +45,12 @@ Rails Template handler for ThinReports DSL.
 
   * [GitHub](https://github.com/takeshinoda/thinreports-rails)
 
+### thinreports-template-cli
+
+A command line tool to generate a PDF file from TLF file with command line options.
+
+  * [GitHub](https://github.com/mh61503891/thinreports-template-cli)
+
 ## Community
 
   * [**How to Contribute to Thinreports**](https://github.com/thinreports/thinreports/wiki/How-to:-Contributing-to-Thinreports)
