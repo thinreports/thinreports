@@ -1,12 +1,14 @@
 # Releasing Thinreports
 
-この文書ではThinreportsの新しいバージョンをリリースする手順を説明します。
+This document describes the steps to release a new version of Thinreports.
 
-## Issueを作成してリリースの方針を決める
+## Create an issue and plan a release
 
-まず、"Releasing new version"を選択してリリースイシューを作成します。リリースする内容や目的、日程などの計画を記載し、その計画について少なくとも一人以上のメンバーに確認します。
+First, select "Releasing new version" to create a Release Issue.
+Describe the plan such as the contents to be released, the purpose, the schedule, etc., and confirm it with at least one or more members.
+
 https://github.com/thinreports/thinreports/issues/new/choose
 
-## リリースIssueの手順に従ってリリースする
+## Release according to the Release Issue
 
-リリースの手順はリリースイシューに記載されています。その手順に従ってリリースしてください。
+The release steps is described in the Release Issue. Follow that steps to release.
