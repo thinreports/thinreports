@@ -7,14 +7,18 @@ assignees: ''
 
 ---
 
-## What to release
+## Why
+
+<Purpose, reason for the release>
+
+## What
 
 - [ ] Editor
 - [ ] Generator
 
-## When to release
+## When
 
-<Date for releasing>
+<Release data>
 
 ## Tasks
 
