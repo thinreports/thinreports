@@ -1,12 +1,12 @@
-# ![Thinreports | Open Source Report Tool for Ruby](http://www.thinreports.org/assets/logos/thinreports-logo.svg)
+<p align="center">
+  <a href="http://www.thinreports.org" rel="nofollow">
+    <img alt="Thinreports" src="http://www.thinreports.org/assets/logos/thinreports-logo.svg" width="600">
+  </a>
+</p>
 
-Thinreports is an open source report tool for Ruby:
-http://www.thinreports.org
-
----
-
-**We need your review and your advice for the concept of new features:**
-https://github.com/thinreports/thinreports/labels/CONCEPT
+<p align="center">
+  Thinreports is an open source report tool for Ruby
+</p>
 
 ---
 
