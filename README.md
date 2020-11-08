@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.thinreports.org" rel="nofollow">
-    <img alt="Thinreports" src="http://www.thinreports.org/assets/logos/thinreports-logo.svg" width="600">
+    <img alt="Thinreports" src="http://www.thinreports.org/assets/logos/thinreports-logo-v.svg" width="200">
   </a>
 </p>
 
