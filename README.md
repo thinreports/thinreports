@@ -14,7 +14,8 @@
 
 ## Community
 
-  * [Discussion Group](https://groups.google.com/forum/#!forum/thinreports)
+  * [Discussion Group (GitHub Discussions)](https://github.com/thinreports/thinreports/discussions)
+  * [Discussion Group (Google Groups)](https://groups.google.com/forum/#!forum/thinreports)
   * [How to Contribute to Thinreports](https://github.com/thinreports/thinreports/wiki/How-to:-Contributing-to-Thinreports)
 
 ## Getting Started
