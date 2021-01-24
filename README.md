@@ -20,9 +20,9 @@
 
 ## Getting Started
 
-  * [Documentation](http://www.thinreports.org/documentation/en/)
   * [Examples](https://github.com/thinreports/thinreports-examples)
-  * [Rails5 Example](https://github.com/thinreports/thinreports-rails5-example)
+  * [Rails Example](https://github.com/thinreports/thinreports-rails-example)
+  * [Documentation](http://www.thinreports.org/documentation/en/)
 
 ## Third-party Tools
 
