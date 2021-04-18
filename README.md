@@ -4,7 +4,7 @@
     <br/>
     Thinreports
   </h1>
-  <p>An open source report creation tool for Runy.</p>
+  <p>An open source report creation tools for Runy.</p>
 </div>
 
 ## Tools
