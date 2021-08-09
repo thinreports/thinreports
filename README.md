@@ -4,7 +4,7 @@
     <br/>
     Thinreports
   </h1>
-  <p>An open source report creation tools for Runy.</p>
+  <p>A PDF generation tool for Ruby with GUI tools to edit templates.</p>
 </div>
 
 ## Tools
