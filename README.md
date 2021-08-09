@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img alt="Thinreports" src="https://github.com/thinreports/thinreports/raw/master/images/logo.png" width="80"/>
+    <img alt="Thinreports" src="https://raw.githubusercontent.com/thinreports/thinreports/master/images/logo.png" width="80"/>
     <br/>
     Thinreports
   </h1>
