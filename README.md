@@ -28,3 +28,7 @@ Please see [Contributing to Thinreports](https://github.com/thinreports/thinrepo
 ## Code of Conduct
 
 This project has adopted the [Contributor Covenant](CODE_OF_CONDUCT.md). Unacceptable behavior can be reported to thinreports+conduct@gmail.com which is monitored by the core team.
+
+## Development
+
+- [Releasing Thinreports](development/RELEASING.md)
