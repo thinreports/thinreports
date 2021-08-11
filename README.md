@@ -7,33 +7,28 @@
   <p>A PDF generation tool for Ruby with GUI tools to edit templates.</p>
 </div>
 
-## Tools
+## Thinreports
 
-  * [Thinreports Editor](https://github.com/thinreports/thinreports-editor) - Report Designer
-  * [Thinreports Generator for Ruby](https://github.com/thinreports/thinreports-generator) - PDF Generator for Ruby
+Thinreports is a PDF generation tool that provides [Thinreports Editor](https://github.com/thinreports/thinreports-editor), a GUI tool for editing templates, and [Thinreports Generator](https://github.com/thinreports/thinreports-generator), a Ruby library for generating PDFs.
 
-## Community
+## Documentation
 
-  * [Discussion Group (GitHub Discussions)](https://github.com/thinreports/thinreports/discussions)
-  * [Discussion Group (Google Groups)](https://groups.google.com/forum/#!forum/thinreports)
-  * [How to Contribute to Thinreports](https://github.com/thinreports/thinreports/wiki/How-to:-Contributing-to-Thinreports)
+- [Getting Started](http://www.thinreports.org/documentation/en/)
+- [Examples](https://github.com/thinreports/thinreports-examples)
+- [Rails Application Example](https://github.com/thinreports/thinreports-rails-example)
 
-## Getting Started
+## Support
 
-  * [Examples](https://github.com/thinreports/thinreports-examples)
-  * [Rails Example](https://github.com/thinreports/thinreports-rails-example)
-  * [Documentation](http://www.thinreports.org/documentation/en/)
+If you have questions about Thinreports, please feel free to ask them in the our [GitHub Discussions](https://github.com/thinreports/thinreports/discussions) forum.
 
-## Third-party Tools
+## Contributing
 
-  * [thinreports-rails](https://github.com/takeshinoda/thinreports-rails)
-  * [thinreports-template-cli](https://github.com/mh61503891/thinreports-template-cli)
+Please see [Contributing to Thinreports](https://github.com/thinreports/thinreports/wiki/How-to%3A-Contributing-to-Thinreports).
 
-## Social Accounts
+## Code of Conduct
 
-  * Twitter [@thinreport_org](https://twitter.com/thinreports_org)
-  * Facebook [Thinreports.org](https://www.facebook.com/Thinreports.org)
+This project has adopted the [Contributor Covenant](CODE_OF_CONDUCT.md). Unacceptable behavior can be reported to thinreports+conduct@gmail.com which is monitored by the core team.
 
-## Copyright
+## Development
 
-&copy; 2010 [Matsukei Co.,Ltd](http://www.matsukei.co.jp).
+- [Releasing Thinreports](development/RELEASING.md)
