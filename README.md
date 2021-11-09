@@ -4,12 +4,12 @@
     <br/>
     Thinreports
   </h1>
-  <p>A PDF generation tool for Ruby with GUI tools to edit templates.</p>
+  <p>A PDF generation tools for Ruby, with design tool for editing templates.</p>
 </div>
 
 ## Thinreports
 
-Thinreports is a PDF generation tool that provides [Thinreports Editor](https://github.com/thinreports/thinreports-editor), a GUI tool for editing templates, and [Thinreports Generator](https://github.com/thinreports/thinreports-generator), a Ruby library for generating PDFs.
+Thinreports is a PDF generation tool that provides [Thinreports Editor](https://github.com/thinreports/thinreports-editor), a design tool for editing templates, and [Thinreports Generator](https://github.com/thinreports/thinreports-generator), a Ruby library for generating PDFs.
 
 ## Getting Started
 
