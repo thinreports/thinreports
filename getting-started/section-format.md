@@ -23,7 +23,7 @@ To generate a PDF using a template file (`.tlf`) formatted Section Format, you w
 
 ### Generator
 
-[Generator](https://github.com/thinreports/thinreports-generator) is a Ruby library to generate PDFs using template file formatted Section Format.
+[Generator](https://github.com/thinreports/thinreports-generator) is a Ruby library to generate PDFs.
 
 ## Installation
 

@@ -12,7 +12,7 @@ To generate a PDF using a template file (`.tlf`) formatted Basic Format, you wil
 
 ### Generator
 
-[Generator](https://github.com/thinreports/thinreports-generator) is a Ruby library to generate PDFs using a template file formatted Basic Format.
+[Generator](https://github.com/thinreports/thinreports-generator) is a Ruby library to generate PDFs.
 
 ## Installation
 
