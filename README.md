@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img alt="Thinreports" src="thinreports.png" width="80"/>
+    <img alt="Thinreports" src="https://raw.githubusercontent.com/thinreports/thinreports/main/thinreports.png" width="80"/>
     <br/>
     Thinreports
   </h1>
@@ -25,8 +25,8 @@ The basic functionality of both formats is the same, but Section Format is more 
 
 Basic Format is a traditional and stable format in which shapes, text, etc. are placed on a fixed size canvas and a PDF is generated.
 
-- [Installation](getting-started/basic-format.md#installation)
-- [Quick Start](getting-started/basic-format.md#quick-start)
+- [Installation](https://github.com/thinreports/thinreports/blob/main/getting-started/basic-format.md#installation)
+- [Quick Start](https://github.com/thinreports/thinreports/blob/main/getting-started/basic-format.md#quick-start)
 - [API Reference](https://github.com/thinreports/thinreports-generator/blob/master/README.md#quick-reference)
 - [Examples](https://github.com/thinreports/thinreports-examples)
 - [Rails Application Example](https://github.com/thinreports/thinreports-rails-example)
@@ -37,10 +37,10 @@ Basic Format is a traditional and stable format in which shapes, text, etc. are 
 
 Section Format is a new template format that allows you to define a layout by dividing it into units called sections, and then freely combine them to generate a PDF.
 
-- [Features](getting-started/section-format.md#features)
-- [Installation](getting-started/section-format.md#installation)
-- [Quick Start](getting-started/section-format.md#quick-start)
-- [Examples](getting-started/section-format.md#examples)
+- [Features](https://github.com/thinreports/thinreports/blob/main/getting-started/section-format.md#features)
+- [Installation](https://github.com/thinreports/thinreports/blob/main/getting-started/section-format.md#installation)
+- [Quick Start](https://github.com/thinreports/thinreports/blob/main/getting-started/section-format.md#quick-start)
+- [Examples](https://github.com/thinreports/thinreports/blob/main/getting-started/section-format.md#examples)
 
 ## News
 
