@@ -42,6 +42,10 @@ Section Format is a new template format that allows you to define a layout by di
 - [Quick Start](getting-started/section-format.md#quick-start)
 - [Examples](getting-started/section-format.md#examples)
 
+## News
+
+Please see [Announcements at Thinreports Discussions](https://github.com/thinreports/thinreports/discussions/categories/announcement).
+
 ## Support
 
 If you have questions about Thinreports, please feel free to ask them in the our [GitHub Discussions](https://github.com/thinreports/thinreports/discussions) forum.
