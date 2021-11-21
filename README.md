@@ -48,7 +48,7 @@ Please see [Announcements at the our GitHub Discussions](https://github.com/thin
 
 ## Support
 
-If you have questions about Thinreports, please feel free to ask them in the our [GitHub Discussions](https://github.com/thinreports/thinreports/discussions) forum.
+If you have questions about Thinreports, please feel free to ask them in [the our GitHub Discussions](https://github.com/thinreports/thinreports/discussions) forum.
 
 ## Contributing
 
