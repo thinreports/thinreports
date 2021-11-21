@@ -44,7 +44,7 @@ Section Format is a new template format that allows you to define a layout by di
 
 ## News
 
-Please see [announcements at the our GitHub Discussions](https://github.com/thinreports/thinreports/discussions/categories/announcement).
+Please see [Announcements at the our GitHub Discussions](https://github.com/thinreports/thinreports/discussions/categories/announcement).
 
 ## Support
 
