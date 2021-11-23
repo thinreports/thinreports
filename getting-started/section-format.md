@@ -29,11 +29,11 @@ To generate a PDF using a template file (`.tlf`) formatted Section Format, you w
 
 ### Section Editor
 
-It is currently only available as a development version. Please follow the [README in Editor](https://github.com/thinreports/thinreports-editor/tree/master/section-editor#getting-started).
+It is currently only available as a development version. Please follow the [thinreports-editor/section-editor](https://github.com/thinreports/thinreports-editor/tree/master/section-editor).
 
 ### Generator
 
-Please follow [Generator's README](https://github.com/thinreports/thinreports-generator) to install rubygems.
+Please follow the [thinreports-generator](https://github.com/thinreports/thinreports-generator) to install rubygems.
 
 ## Quick Start
 
