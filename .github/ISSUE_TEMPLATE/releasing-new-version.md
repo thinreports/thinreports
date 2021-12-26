@@ -32,7 +32,7 @@ Refer to the followings for each steps:
 
 - [Releasing Editor](https://github.com/thinreports/thinreports-editor#releasing-editor)
 - [Releasing Generator](https://github.com/thinreports/thinreports-generator#releasing-generator)
-- [Adding News](https://github.com/thinreports/thinreports.org#adding-news)
+- [Adding Announcement](https://github.com/thinreports/thinreports/discussions/new?category=announcement)
 
 ### 1. Prepare and review releases
 
@@ -44,7 +44,6 @@ Refer to the followings for each steps:
 - [ ] Editor: <!-- put url for the published release here -->
 - [ ] Generator: <!-- put url for the published rubygem here -->
 
-### 3. Post the announcement to the official site
+### 3. Post the announcement to GitHub Discusssions
 
-- [ ] Create the announcement: <!-- put url for the pull request here -->
 - [ ] Post the announcement: <!-- put url for the posted announcement here -->
