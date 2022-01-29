@@ -27,7 +27,7 @@ Basic Format is a traditional and stable format in which shapes, text, etc. are 
 
 - [Installation](https://github.com/thinreports/thinreports/blob/main/getting-started/basic-format.md#installation)
 - [Quick Start](https://github.com/thinreports/thinreports/blob/main/getting-started/basic-format.md#quick-start)
-- [API Reference](https://github.com/thinreports/thinreports-generator/blob/master/README.md#usage)
+- [API Reference](https://github.com/thinreports/thinreports-generator/blob/main/README.md#usage)
 - [Examples](https://github.com/thinreports/thinreports-examples)
 - [Rails Application Example](https://github.com/thinreports/thinreports-rails-example)
 
@@ -52,7 +52,7 @@ If you have questions about Thinreports, please feel free to ask them in [the ou
 
 ## Contributing
 
-Please see [Contributing to Thinreports](https://github.com/thinreports/thinreports/wiki/How-to%3A-Contributing-to-Thinreports).
+Please see [How to contribute to Thinreports](https://github.com/thinreports/thinreports/blob/main/CONTRIBUTING.md).
 
 ## Code of Conduct
 
