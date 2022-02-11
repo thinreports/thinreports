@@ -8,7 +8,7 @@ To generate a PDF using a template file (`.tlf`) formatted Basic Format, you wil
 
 ### Basic Editor
 
-[Basic Editor](https://github.com/thinreports/thinreports-editor/tree/master/basic-editor) is a design tool for creating/editing a template file formatted Basic Format.
+[Basic Editor](https://github.com/thinreports/thinreports-basic-editor) is a design tool for creating/editing a template file formatted Basic Format.
 
 ### Generator
 
@@ -18,7 +18,7 @@ To generate a PDF using a template file (`.tlf`) formatted Basic Format, you wil
 
 ### Basic Editor
 
-Download the latest editor suitable for your OS from [the release page](https://github.com/thinreports/thinreports-editor/releases). Extract the downloaded zip file and place the created folder in an arbitrary place. You can launch the Editor by executing the executable file in the folder.
+Download the latest editor suitable for your OS from [the release page](https://github.com/thinreports/thinreports-basic-editor/releases). Extract the downloaded zip file and place the created folder in an arbitrary place. You can launch the Editor by executing the executable file in the folder.
 
 ### Generator
 

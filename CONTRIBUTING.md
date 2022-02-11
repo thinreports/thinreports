@@ -2,9 +2,9 @@
 
 Thinreports is, and always will be, provided free of charge. Any activity of Thinreports is voluntary activity by member of Thinreports.org community. If you use Thinreports and like it, please consider the contribution by all means.
 
-### Contributing to Thinreports libraries
+### Contributing to Thinreports tools and libraries
 
-If you have a bug or suggestions on Thinreports library such as [Thinreports Editor](https://github.com/thinreports/thinreports-editor) and [Thinreports Generator](https://github.com/thinreports/thinreports-generator), you can contribute in the following ways:
+If you have a bug or suggestions on Thinreports library such as [Thinreports Basic Editor](https://github.com/thinreports/thinreports-basic-editor), [Thinreports Section Editor](https://github.com/thinreports/thinreports-section-editor) and [Thinreports Generator](https://github.com/thinreports/thinreports-generator), you can contribute in the following ways:
 
 - Report bugs, post your suggestions
 - Send your patchs by Pull Request

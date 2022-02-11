@@ -19,7 +19,7 @@ To generate a PDF using a template file (`.tlf`) formatted Section Format, you w
 
 ### Section Editor
 
-[Section Editor](https://github.com/thinreports/thinreports-editor/tree/master/section-editor) is a design tool for creating/editing a template file formatted Section Format.
+[Section Editor](https://github.com/thinreports/thinreports-section-editor) is a design tool for creating/editing a template file formatted Section Format.
 
 ### Generator
 
@@ -29,7 +29,7 @@ To generate a PDF using a template file (`.tlf`) formatted Section Format, you w
 
 ### Section Editor
 
-It is currently only available as a development version. Please follow the [thinreports-editor/section-editor](https://github.com/thinreports/thinreports-editor/tree/master/section-editor).
+It is currently only available as a development version. Please follow the [thinreports-section-editor](https://github.com/thinreports/thinreports-section-editor).
 
 ### Generator
 
@@ -137,4 +137,4 @@ Each example includes a description of the specifications, a Ruby code, a templa
 
 - [Issue: New Report Type: Section Report (Official proposal)](https://github.com/thinreports/thinreports/issues/7)
 - [Issue: Implement "New Report Type: Section Report"](https://github.com/thinreports/thinreports/issues/12)
-- [Pull request: Add a new editor for the sectoin-report format](https://github.com/thinreports/thinreports-editor/pull/87)
+- [Pull request: Add a new editor for the sectoin-report format](https://github.com/thinreports/thinreports-basic-editor/pull/87)

@@ -15,7 +15,8 @@ If necessary, describe the purpose, reason, and background for this release here
 
 ### What to release
 
-- [ ] Editor
+- [ ] Basic Editor
+- [ ] Section Editor
 - [ ] Generator
 
 ### When to release
@@ -30,18 +31,20 @@ If this release includes only one of Editor or Generator, delete the checklist f
 
 Refer to the followings for each steps:
 
-- [Releasing Editor](https://github.com/thinreports/thinreports-editor#releasing-editor)
+- [Releasing Basic Editor](https://github.com/thinreports/thinreports-basic-editor#releasing-editor)
 - [Releasing Generator](https://github.com/thinreports/thinreports-generator#releasing-generator)
 - [Adding Announcement](https://github.com/thinreports/thinreports/discussions/new?category=announcement)
 
 ### 1. Prepare and review releases
 
-- [ ] Editor: <!-- put url for pull request here -->
+- [ ] Basic Editor: <!-- put url for pull request here -->
+- [ ] Section Editor: <!-- put url for pull request here -->
 - [ ] Geneartor: <!-- put url for pull request here -->
 
 ### 2. Publish releases
 
-- [ ] Editor: <!-- put url for the published release here -->
+- [ ] Basic Editor: <!-- put url for the published release here -->
+- [ ] Section Editor: <!-- put url for the published release here -->
 - [ ] Generator: <!-- put url for the published rubygem here -->
 
 ### 3. Post the announcement to GitHub Discusssions
