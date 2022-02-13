@@ -18,11 +18,11 @@ To generate a PDF using a template file (`.tlf`) formatted Basic Format, you wil
 
 ### Basic Editor
 
-Download the latest editor suitable for your OS from [the release page](https://github.com/thinreports/thinreports-basic-editor/releases). Extract the downloaded zip file and place the created folder in an arbitrary place. You can launch the Editor by executing the executable file in the folder.
+Please follow [the installation instructions in the thinreports-basic-editor](https://github.com/thinreports/thinreports-basic-editor#installation).
 
 ### Generator
 
-Please follow [Generator's README](https://github.com/thinreports/thinreports-generator) to install rubygems.
+Please follow [the installation instructions in the thinreports-generator](https://github.com/thinreports/thinreports-generator#installation).
 
 ## Quick Start
 
