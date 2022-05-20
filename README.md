@@ -44,11 +44,11 @@ Section Format is a new template format that allows you to define a layout by di
 
 ## News
 
-Please see [Announcements at the our GitHub Discussions](https://github.com/thinreports/thinreports/discussions/categories/announcement).
+Please see [Announcements at the our GitHub Discussions](https://github.com/orgs/thinreports/discussions/categories/announcement).
 
 ## Support
 
-If you have questions about Thinreports, please feel free to ask them in [the our GitHub Discussions](https://github.com/thinreports/thinreports/discussions) forum.
+If you have questions about Thinreports, please feel free to ask them in [the our GitHub Discussions](https://github.com/orgs/thinreports/discussions) forum.
 
 ## Contributing
 
