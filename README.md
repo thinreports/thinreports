@@ -15,7 +15,7 @@ Thinreports is a PDF generation tool that provides [Thinreports Basic Editor](ht
 
 Thinreports allows you to create PDF layouts using the Thinreports Editor, and then load the created template files with Thinreports Generator to generate PDFs by dynamically embedding values and changing shapes and layouts.
 
-### Two Available Formats
+### Two Available Template Formats
 
 Currently, Thinreports supports two types of template formats. These are called Basic Format and Section Format, respectively.
 
