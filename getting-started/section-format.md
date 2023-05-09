@@ -118,20 +118,20 @@ hello.pdf:
 
 Each example includes a description of the specifications, a Ruby code, a template file, and an output PDF file.
 
-- [Basic Usage](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_basic/README.md): a concept and basic usages of the section report format
-- [Multiple Groups](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_multiple_groups/README.md): specifications of a `groups` parameter
-- [Section Auto Stretch](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_section_auto_stretch/README.md): auto strech specifications of sections
-- [Section Bottom Margin](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_section_bottom_margin/README.md): bottom margin specifications of sections
-- [Section Parameters](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_section_parameters/README.md): parameter specifications of sections
-- [Item Follow Stretch](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_item_follow_stretch/README.md): specifications of how the containing item is stretched by sections or stack-view-rows
-- [Item Parameters](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_item_parameters/README.md): parameter specifications of items (rectangles etc.)
-- [StackView](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_stack_view/README.md): specifications of the stack-view tool, which we added independently
-- [StackViewRow Auto Stretch](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_stack_view_row_auto_stretch/README.md): auto stretch specifications of stack-view-rows (same as sections)
-- [StackViewRow Bottom Margin](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_stack_view_row_bottom_margin/README.md): bottom margin specifications of stack-view-rows (same as sections)
-- [StackViewRow Parameters](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_stack_view_row_parameters/README.md): parameter specifications of stack-view-rows
-- [StackView with Floating Item](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_stack_view_with_floating_item/README.md): how to place items outside of stack-view-rows and its specifications
-- [Nonexistent Id](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_nonexistent_id/README.md): specifications when a non-existent section or item is specified as a parameter
-- [TextBlock Vertical Align](https://github.com/thinreports/thinreports-generator/tree/master/test/features/section_report_text_block_vertical_align/README.md): vertical alignment specifications when a text-block has a `overflow: expand` attribute
+- [Basic Usage](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/basic/README.md): a concept and basic usages of the section report format
+- [Multiple Groups](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/multiple_groups/README.md): specifications of a `groups` parameter
+- [Section Auto Stretch](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/section_auto_stretch/README.md): auto strech specifications of sections
+- [Section Bottom Margin](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/section_bottom_margin/README.md): bottom margin specifications of sections
+- [Section Parameters](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/section_parameters/README.md): parameter specifications of sections
+- [Item Follow Stretch](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/item_follow_stretch/README.md): specifications of how the containing item is stretched by sections or stack-view-rows
+- [Item Parameters](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/item_parameters/README.md): parameter specifications of items (rectangles etc.)
+- [StackView](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/stack_view/README.md): specifications of the stack-view tool, which we added independently
+- [StackViewRow Auto Stretch](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/stack_view_row_auto_stretch/README.md): auto stretch specifications of stack-view-rows (same as sections)
+- [StackViewRow Bottom Margin](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/stack_view_row_bottom_margin/README.md): bottom margin specifications of stack-view-rows (same as sections)
+- [StackViewRow Parameters](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/stack_view_row_parameters/README.md): parameter specifications of stack-view-rows
+- [StackView with Floating Item](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/stack_view_with_floating_item/README.md): how to place items outside of stack-view-rows and its specifications
+- [Nonexistent Id](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/nonexistent_id/README.md): specifications when a non-existent section or item is specified as a parameter
+- [TextBlock Vertical Align](https://github.com/thinreports/thinreports-generator/tree/main/test/section_report/features/text_block_vertical_align/README.md): vertical alignment specifications when a text-block has a `overflow: expand` attribute
 
 ## Related Issues and pull requests
 
